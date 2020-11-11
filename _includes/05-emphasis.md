@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Skills I've ***learned*** so far:
+* How to *write* **R scripts**
+* How to *use* **GitHub**
+* How to **debate**
